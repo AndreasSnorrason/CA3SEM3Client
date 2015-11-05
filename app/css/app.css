@@ -1,0 +1,26 @@
+#sidebar{
+    position: fixed;
+    background-color: #660099;
+    width: 400px;
+    height: 100%;
+    right: 0px;
+    opacity: 0.4;
+}
+
+
+#body{
+    background-color: #269abc;
+}
+
+.retListe{
+    position: fixed;
+    top: 100px;
+    margin-left: 50px;
+    font-size: 30px;
+}
+
+.listeOverskrift{
+    font-size: 60px;
+    margin-left: -30px;
+    color: yellowgreen;
+}
